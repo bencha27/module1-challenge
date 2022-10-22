@@ -15,12 +15,16 @@ header {
     color: #ffffff;
 }
 
-header h1 {
+h1 {
+    visibility: hidden;
+}
+
+header h2 {
     display: inline-block;
     font-size: 48px;
 }
 
-header h1 .seo {
+header h2 .seo {
     color: #d9dcd6;
 }
 
